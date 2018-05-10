@@ -7,14 +7,14 @@ highlighter: rouge
 markdown: kramdown
 disqus: dbyll
 google_analytics: dbyll
-title: dbyll
+title: namhb4
 
 defaults:
   -
     scope:
       path: "" # empty string for all files
     values:
-      title: dbyll
+      title: $ whoami > /dev/null
 
 description: Stylish Jekyll Theme
 author:
@@ -23,7 +23,7 @@ author:
   github: namhb4
   twitter: kendyhikaru
   linkedin: namhabach
-  bio: Your stylish, minimalist theme!
+  bio: A generic security blog by a pentester!
   email_md5: 726351295ec82e145928582f595aa3aa
 
 rss_path: feed.xml
