@@ -6,7 +6,8 @@ exclude: ["README.md"] # files to exclude
 highlighter: rouge
 markdown: kramdown
 title: namhb4
-
+logo: assets/avatar.jpg
+cover : /assets/angel1.png
 defaults:
   -
     scope:
@@ -16,13 +17,12 @@ defaults:
 
 description: Stylish Jekyll Theme
 author:
-  name: namhb4
+  name: Nam Ha Bach
   email: namhb4@fpt.edu.vn
   github: namhb4
   twitter: kendyhikaru
   linkedin: namhabach
   bio: OSCP 31231 | Security Engineer | Bug bounty hunter | Security Researcher
-  email_md5: 726351295ec82e145928582f595aa3aa
 
 rss_path: feed.xml
 categories_path: categories.html
