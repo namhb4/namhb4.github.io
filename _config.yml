@@ -5,7 +5,7 @@ paginate_path: "page:num"
 exclude: ["README.md"] # files to exclude
 highlighter: rouge
 markdown: kramdown
-title: namhb4
+title: Nam Ha Bach
 logo: assets/avatar.jpg
 cover : /assets/angel1.png
 defaults:
@@ -23,6 +23,7 @@ author:
   twitter: kendyhikaru
   linkedin: namhabach
   bio: OSCP 31231 | Security Engineer | Bug bounty hunter | Security Researcher
+  gravatar: 151
 
 rss_path: feed.xml
 categories_path: categories.html
